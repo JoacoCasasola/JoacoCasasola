@@ -5,7 +5,6 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Mano saludando">
   Hola, Soy Joaquín!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Mano saludando">
 </h1>
 
 <h3 align="center">Desarrollador Full Stack | Estudiante de Programación</h3>
