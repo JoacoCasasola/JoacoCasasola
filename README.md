@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGx6aGJjbzdmNWtzenMxODlrcmd2cDRjaWhnbGtoMXZhdjI0MzZ3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f7omQNmgiyjj5sffvZ/giphy.gif" width="350" alt="Desarrollador Web Banner">
+  <img src="https://github.com/JoacoCasasola/Portfolio/blob/ec2f1a89f55ffeb80b982538c613cab7cd4a7dc0/assets/bannerLinkedin.png" alt="Desarrollador Web Banner">
 </div>
 
 <h1 align="center">
