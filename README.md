@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/JoacoCasasola/Portfolio/blob/ec2f1a89f55ffeb80b982538c613cab7cd4a7dc0/assets/bannerLinkedin.png" alt="Desarrollador Web Banner">
+  <img src="https://github.com/JoacoCasasola/Portfolio/blob/a9f91108cfafcc301d20aac632f8e2c3c994788b/assets/Copia%20de%20Joaqu%C3%ADn%20Casasola.png" alt="Desarrollador Web Banner">
 </div>
 
 <h1 align="center">
