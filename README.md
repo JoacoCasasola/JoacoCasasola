@@ -9,6 +9,10 @@
 
 <h3 align="center">Desarrollador Full Stack | Estudiante de Programación</h3>
 
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHo0cDZuaXVraXpucW9kbjVqOWxmcjI5dThkYjFnZGJ1a20xcmp1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f7omQNmgiyjj5sffvZ/giphy.gif" width="250px" alt="Desarrollador Web gif">
+</div>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Apasionado+por+el+código;Creativo+y+colaborativo;Aprendiendo+constantemente&center=true&width=380&height=50">
 </p>
