@@ -78,7 +78,7 @@ Frontend<br>
 
 ## 📫 Contacto
 - 📧 Email: joaquincasasola29@gmail.com
-- 📍 Ubicación: Lomas de Zamora, Bs.As. Argentina
+- 📍 Ubicación: Temperley, Bs.As. Argentina
 
 <div align="center">
   <a href="https://www.linkedin.com/in/joaquincasasola" target="_blank">
